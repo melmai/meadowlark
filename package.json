@@ -1,0 +1,14 @@
+{
+  "name": "localhost",
+  "version": "1.0.0",
+  "description": "Demo site for node.js",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Melissa Wong",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
